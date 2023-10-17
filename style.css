@@ -3,6 +3,9 @@
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+body{
+    overflow:hidden;
+}
 p{
     color: #777; 
 }
