@@ -261,6 +261,9 @@ nav .fa{
     color: #f44336;
 }
 @media(max-width: 700px){
+    .header{
+        overflow:hidden;
+    }
     .text-box h1{
         font-size: 20px;
     }
